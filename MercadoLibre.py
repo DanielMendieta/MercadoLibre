@@ -36,7 +36,7 @@ def crear_conexion_insert(tabla):
             host='data-engineer-cluster.cyhh5bfevlmn.us-east-1.redshift.amazonaws.com',
             dbname="data-engineer-database",
             user="mendietadaniel1994_coderhouse",
-            password='o4T3Iuw898',
+            password='XXXXX',
             port='5439'
         )
         print("Conexión Exitosa.")
@@ -74,7 +74,7 @@ def consulta_email():
             host='data-engineer-cluster.cyhh5bfevlmn.us-east-1.redshift.amazonaws.com',
             dbname="data-engineer-database",
             user="mendietadaniel1994_coderhouse",
-            password='o4T3Iuw898',
+            password='XXXXX',
             port='5439'
         )
         print("Conexión Exitosa.")
