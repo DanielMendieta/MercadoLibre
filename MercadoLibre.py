@@ -85,7 +85,7 @@ def consulta_email():
         print("Datos Encontrados.")
 
         email_from = "mendietadaniel1994@gmail.com"
-        passw = 'wvxgnmwbmqtscqen'
+        passw = 'xxxxxxxx'
         email_to = "mendietadaniel1994@gmail.com"
         title = "Buenas Noticias"
 
