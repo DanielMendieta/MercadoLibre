@@ -25,4 +25,4 @@ Dbeaver,
 Docker,
 Postgresql,
 Python (datetime,email.message,pandas,Requests,smtplib),
-Visual studio code
+Visual studio code.
