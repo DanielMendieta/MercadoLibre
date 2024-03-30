@@ -20,9 +20,9 @@ Configura una cuenta de correo electrónico y actualiza las credenciales en el c
 Ejecuta el script principal para iniciar el flujo de trabajo.
 
 Este proyecto utiliza las siguientes tecnologías:
-Apache Airflow
-Dbeaver
-Docker
-Postgresql
-Python (datetime,email.message,pandas,Requests,smtplib)
+Apache Airflow,
+Dbeaver,
+Docker,
+Postgresql,
+Python (datetime,email.message,pandas,Requests,smtplib),
 Visual studio code
