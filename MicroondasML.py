@@ -37,7 +37,7 @@ def crear_tabla(): #Funcion para crear la tabla en nuestra base de datos Postgre
                          Nombre varchar (255),
                          Precio numeric (10,2),
                          Cantidad_Disponible Integer,   
-	                       Link varchar(300),			
+	                 Link varchar(300),			
                          Estado varchar(10),
                          Fecha timestamp(300),
                          primary key (id)
